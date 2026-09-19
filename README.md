@@ -4,8 +4,6 @@ This project uses GPS and accelerator data from Hibernian FC's 25/26 Scottish Pr
 
 Further information on background, methodology, and findings can be found in the [paper](https://github.com/ElisabethMortensen/HibernianFC_dissertation/blob/main/HibernianFC_dissertation_paper.pdf) and the [poster](https://github.com/ElisabethMortensen/HibernianFC_dissertation/blob/main/Hibernian_FC_Diss_Poster.pdf).
 
-![Hibernian FC Fatigue Research Poster](https://github.com/ElisabethMortensen/HibernianFC_dissertation/blob/main/HibernianFC_poster.png)
-
 ## Data
 
 Two data files provided by Hibernian FC are required and should be added to the working directory where you will be running the files, `minute_by_minute.csv`, GPS and accelerometer data and `matches.csv`, match level data.
