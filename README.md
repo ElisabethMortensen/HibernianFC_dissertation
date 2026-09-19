@@ -2,7 +2,7 @@
 
 This project uses GPS and accelerator data from Hibernian FC's 25/26 Scottish Premiership season to define and monitor fatigue.
 
-Further information on background, methodology, and findings can be found in the [paper](https://github.com/ElisabethMortensen/HibernianFC_dissertation/blob/main/Hibernian_FC_Diss_Poster.pdf) and the [poster](https://github.com/ElisabethMortensen/HibernianFC_dissertation/blob/main/Hibernian_FC_Diss_Poster.pdf).
+Further information on background, methodology, and findings can be found in the [paper](https://github.com/ElisabethMortensen/HibernianFC_dissertation/blob/main/HibernianFC_dissertation_paper.pdf) and the [poster](https://github.com/ElisabethMortensen/HibernianFC_dissertation/blob/main/Hibernian_FC_Diss_Poster.pdf).
 
 ## Data
 
