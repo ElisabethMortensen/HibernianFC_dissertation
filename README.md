@@ -1,6 +1,4 @@
-# Hibernian FC, Football Player Fatigue Monitoring
-
-# Consultancy Project
+# Hibernian FC, Football Player Fatigue Monitoring Consultancy Project
 
 This project uses GPS and accelerator data from Hibernian FC's 25/26 Scottish Premiership season to define and monitor fatigue.
 
